@@ -11,4 +11,4 @@ It is possible that some tags do not have a dark version in the current scss fil
 ## Examples
 - https://zaonirinku.github.io/
 - https://zaonirinku.github.io/TutorielVulkanFR/partie1/1.html
-- https://team-nutshell.github.io/
+- https://www.team-nutshell.dev/
